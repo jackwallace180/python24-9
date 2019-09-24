@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0b3f81f-c77e-4660-856a-67b735c60f33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/eng-42-basics" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eng-42-basics/more nesting.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eng-42-basics/nested_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise 2 if and input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise with ifs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iteration dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eng-42-basics" beforeDir="false" afterPath="$PROJECT_DIR$/eng-42-basics" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eng-42-basics" />
   </component>
   <component name="ProjectId" id="1RHJfgOAepXYhaTjyplSeJx9rxy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
