@@ -4,12 +4,8 @@
     <list default="true" id="d0b3f81f-c77e-4660-856a-67b735c60f33" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/eng-42-basics/more nesting.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eng-42-basics/nested_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex4_angry_teacher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise3_POPTOK_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise5_storybook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eng-42-basics" beforeDir="false" afterPath="$PROJECT_DIR$/eng-42-basics" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/while loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise5_storybook.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise5_storybook.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

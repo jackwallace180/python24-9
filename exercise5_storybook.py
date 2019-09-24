@@ -15,24 +15,27 @@
  # It would be nice to be able to read only one story
 
 storybook = {
-     'book1': {'beggining':'there was a man called jack',
-               'middle':'he was very bad at coding',
-               'end':'filipe taught him very well and now he can code amazingly',
-               'hero':'filipe'},
-     'book2': {'beggining':'there was a man called josh',
-               'middle':'he was very bad at swimming',
-               'end':'mansuel taught him very well and now he can swim amazingly',
-               'hero':'mansuel'},
-     'book3': {'beggining':'there was a man called vishnu',
-               'middle':'he was very bad at remembering peoples names',
-               'end':'abror taught him everyones names and now he can greet everyone amazingly',
-               'hero':'abror'}
-
-}
+     'book1': {'beginning':input('what is the beginning of your first story?'),
+               'middle':input('what is the middle of your first story?'),
+               'end':input('what is the end of your first story?'),
+               'hero': input('who is the hero?')},
+     'book2': {'beginning': input('what is the beginning of your second story?'),
+              'middle': input('what is the middle of your second story?'),
+              'end': input('what is the end of your second story?'),
+              'hero': input('who is the hero?')},
+     'book3': {'beginning':input('what is the beginning of your third story?'),
+               'middle':input('what is the middle of your third story?'),
+               'end':input('what is the end of your third story?'),
+               'hero': input('who is the hero?')}
+               }
+print ('My storybook :D')
 for key1 in storybook:
-    print ('title of book:',key1)
+    print (key1)
     print('///////////////////')
     for key2 in storybook[key1]:
         print(key2, ':', storybook[key1][key2])
     print('///////////////////')
+
+
+
 
