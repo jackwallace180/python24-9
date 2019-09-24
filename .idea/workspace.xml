@@ -4,8 +4,12 @@
     <list default="true" id="d0b3f81f-c77e-4660-856a-67b735c60f33" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/eng-42-basics/more nesting.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/eng-42-basics/nested_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4_angry_teacher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise3_POPTOK_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise5_storybook.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eng-42-basics" beforeDir="false" afterPath="$PROJECT_DIR$/eng-42-basics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/while loops.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eng-42-basics" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RHJfgOAepXYhaTjyplSeJx9rxy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,8 +45,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercise 2 if and input">
-    <configuration name="exercise 2 if and input" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.exercise5_storybook">
+    <configuration name="ex4_angry_teacher" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonexample" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise 2 if and input.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex4_angry_teacher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise with ifs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercise 3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonexample" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise with ifs.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Jack Wallace\pythonexample\exercise3_POPTOK_game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercise3_POPTOK_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonexample" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise3_POPTOK_game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="if statement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercise5_storybook" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonexample" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if statement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise5_storybook.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exercise 2 if and input" />
-        <item itemvalue="Python.exercise with ifs" />
-        <item itemvalue="Python.if statement" />
+        <item itemvalue="Python.exercise5_storybook" />
+        <item itemvalue="Python.ex4_angry_teacher" />
         <item itemvalue="Python.iteration dict" />
-        <item itemvalue="Python.for loops" />
+        <item itemvalue="Python.exercise3_POPTOK_game" />
+        <item itemvalue="Python.exercise 3" />
       </list>
     </recent_temporary>
   </component>
