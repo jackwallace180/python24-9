@@ -25,12 +25,12 @@ while user_start == 'yes':
     user_start = input('do you want to carry on playing? (yes/no)')
     while True:
         if user_start =='yes':
-            play = True
             break
         elif user_start =='no':
-            play = False
+            print('thanks for playing !!!!!!!!!!!!')
             break
         else:
+            print('this is not a valid input')
             user_start = input('do you want to carry on playing? (yes/no)')
 
 

@@ -37,5 +37,40 @@ for key1 in storybook:
     print('///////////////////')
 
 
+book_sel = input('which book do you want to read?').strip().lower()
+
+while True:
+        if book_sel == 'book1':
+                print(storybook['book1']['beginning'],storybook['book1']['middle'],storybook['book1']['end'])
+                book_sel = input('which book do you want to read now (or exit)?')
+        elif book_sel == 'book2':
+            print(storybook['book2']['beginning'],storybook['book2']['middle'],storybook['book2']['end'])
+            book_sel = input('which book do you want to read now (or exit)?')
+        elif book_sel == 'book3':
+            print(storybook['book3']['beginning'],storybook['book3']['middle'],storybook['book3']['end'])
+            book_sel = input('which book do you want to read now (or exit)?')
+        elif book_sel == 'exit':
+            print('thanks for reading')
+            break
+        else:
+            print('this is not a valid input')
+
+            book_sel = input('which book do you want to read now (or exit)?')
+
+
+# keep running until told other wise
+# ask user for input for book_sell
+# Evaluate input and make decisions
+# if book, show books
+# if exit --> break
+# if else, then this is not a book or rxit
+
+
+
+
+
+
+
+
 
 
